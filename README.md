@@ -1,25 +1,15 @@
-### Hi there 👋
-Here are some ideas to get you started:
+<p align="left"> 
+  <a href="https://github.com/tomoyukikino/tomoyukikino">
+    <img src="https://komarev.com/ghpvc/?username=tomoyukikino" alt="tomoyukikino" />
+  </a>
+  <a href="http://twitter.com/tomoyuki1992121">
+    <img height="20" src="https://img.shields.io/twitter/follow/tomoyuki1992121?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/tomoyukikino">
+    <img height="20" src="https://img.shields.io/github/followers/tomoyukikino?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-Now I working. Creatorslab company.
 
-- 🌱 I’m currently learning ...
-I learning web and IoT. language is Golang,C++,ruby,and so on.
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
-<!--
-**tomoyukikino/tomoyukikino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomoyukikino)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tomoyukikino)](https://github.com/ryo-ma/github-profile-trophy)
