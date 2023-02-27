@@ -10,6 +10,9 @@
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,go,react,next,docker,ts&perline=3)](https://skillicons.dev)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomoyukikino)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomoyukikino)](https://github.com/ryo-ma/github-profile-trophy)
 
